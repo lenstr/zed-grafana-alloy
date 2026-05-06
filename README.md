@@ -1,6 +1,6 @@
-# Grafana Alloy Zed extension
+# zed-grafana-alloy
 
-Language support for Grafana Alloy (`.alloy`) files in Zed.
+Grafana Alloy support for Zed.
 
 ## What this extension provides
 
