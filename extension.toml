@@ -1,0 +1,11 @@
+id = "alloy"
+name = "Grafana Alloy"
+version = "0.0.1"
+schema_version = 1
+authors = ["lenstr"]
+description = "Grafana Alloy language support for Zed"
+repository = "https://github.com/lenstr/zed-alloy-extension"
+
+[grammars.alloy]
+repository = "https://github.com/mattsre/tree-sitter-alloy"
+rev = "58d462b1cdb077682b130caa324f3822aeb00b8e"
